@@ -1,0 +1,24 @@
+{
+  "name": "unchain_ttt_nodejs",
+  "version": "1.0.0",
+  "description": "Assessment for Unchain in Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwasiq/unchain_ttt_nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tictactoe"
+  ],
+  "author": "C. M. Wasiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwasiq/unchain_ttt_nodejs/issues"
+  },
+  "homepage": "https://github.com/nwasiq/unchain_ttt_nodejs#readme"
+}
