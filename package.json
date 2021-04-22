@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/nwasiq/unchain_ttt_nodejs/issues"
   },
-  "homepage": "https://github.com/nwasiq/unchain_ttt_nodejs#readme"
+  "homepage": "https://github.com/nwasiq/unchain_ttt_nodejs#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "nodemon": "^2.0.7"
+  }
 }
